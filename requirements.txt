@@ -5,3 +5,4 @@ playwright
 pydantic
 sqlalchemy
 psycopg2-binary
+google-play-scraper
