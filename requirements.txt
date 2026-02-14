@@ -1,0 +1,7 @@
+fastapi
+mangum
+uvicorn
+playwright
+pydantic
+sqlalchemy
+psycopg2-binary
